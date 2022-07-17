@@ -173,6 +173,10 @@ body .main-container {
   place-items: center;
 }
 
+.page-games pre {
+  background-color: #0d1117;
+}
+
 .page-404 {
   display: grid;
   place-items: center;
